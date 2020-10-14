@@ -1,0 +1,15 @@
+name: ClyroCore
+version: 1.0
+author: Clyro Development Team
+main: com.clyropvp.core.Main
+commands:
+  namemc: null
+  store: null
+  forums: null
+  gamemode:
+    aliases:
+      - gm
+      - gaymode
+  teleport:
+    aliases:
+      - tp
